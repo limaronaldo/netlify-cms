@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/pic01-teste.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Novo Site Netlify
+subheading: Testando Gatsby
 mainpitch:
   title: Why Kaldi
   description: >
@@ -36,6 +36,11 @@ intro:
         eticulous and transparent about each step of the coffee’s journey. We
         personally visit each farm to make sure the conditions are optimal for
         the
+    - image: /img/blog-index.jpg
+      text: >-
+        Outro texto nsparent about each step of the coffee’s journey. We
+        ppoipipoipoipoipoiopipoipoipoipoipoipoiopipoi
+        ioioioioioio
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
