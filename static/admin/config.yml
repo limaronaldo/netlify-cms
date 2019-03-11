@@ -23,10 +23,10 @@ collections:
     label: "Pages"
     files:
        - file: "src/pages/ronaldo/index.md"
-        label: "Ron"
+        label: "Ronaldo"
         name: "ronaldo"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ronaldo-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/index.md"
