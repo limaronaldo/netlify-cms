@@ -26,7 +26,16 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: /img/meeting-space.png
-      text: Blurb Text
+      text: >-
+        Blurb TextbcbvxbxvbvbvbvbvbBlurb TextbcbvxbxvbvbvbvbvbBlurb
+        TextbcbvxbxvbvbvbvbvbBlurb TextbcbvxbxvbvbvbvbvbBlurb
+        TextbcbvxbxvbvbvbvbvbBlurb TextbcbvxbxvbvbvbvbvbBlurb
+        TextbcbvxbxvbvbvbvbvbBlurb Textbcbvxbxvbvbvbvbvb
+    - image: /img/blog-index.jpg
+      text: >-
+        eticulous and transparent about each step of the coffee’s journey. We
+        personally visit each farm to make sure the conditions are optimal for
+        the
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
