@@ -7,6 +7,6 @@
       "use": "@now/static-build",
       "config": { "distDir": "public" }
     },
-    { "src": "static/img/*.png", "use": "@now/optipng" }
+    { "src": "public/img/*.png", "use": "@now/optipng" }
   ]
 } 
